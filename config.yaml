@@ -1,0 +1,31 @@
+model: Model1
+
+Model1:
+    layers_size: [1, 315, 2]
+
+Model2:
+    layers_size: [2, 315, 2]
+
+Model5:
+    layers_size: [5, 315, 2]
+
+Model10:
+    layers_size: [10, 310, 2]
+
+Model20:
+    layers_size: [20, 180, 4]
+
+Model50:
+    layers_size: [50, 175, 4]
+
+Model100:
+    layers_size: [100, 200, 3]
+
+Model200:
+    layers_size: [200, 100, 9]
+
+Model500:
+    layers_size: [500, 100, 6]
+
+Model1000:
+    layers_size: [1000, 100, 1]
